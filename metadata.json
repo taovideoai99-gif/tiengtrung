@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý đối thoại tiếng Trung",
+  "description": "Một ứng dụng giúp bạn luyện tập đối thoại tiếng Trung theo các cấp độ và chủ đề khác nhau, đồng thời cung cấp điểm số và phản hồi về phát âm của bạn.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
